@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reto-Blazar/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Reto-Blazar/static/js/main.3422b059.chunk.js",
+    "main.js.map": "/Reto-Blazar/static/js/main.3422b059.chunk.js.map",
+    "runtime~main.js": "/Reto-Blazar/static/js/runtime~main.0a6d7412.js",
+    "runtime~main.js.map": "/Reto-Blazar/static/js/runtime~main.0a6d7412.js.map",
+    "static/js/2.1aac4db5.chunk.js": "/Reto-Blazar/static/js/2.1aac4db5.chunk.js",
+    "static/js/2.1aac4db5.chunk.js.map": "/Reto-Blazar/static/js/2.1aac4db5.chunk.js.map",
+    "index.html": "/Reto-Blazar/index.html",
+    "precache-manifest.be64ff8d5ef68d6d34b7179cb81fb00b.js": "/Reto-Blazar/precache-manifest.be64ff8d5ef68d6d34b7179cb81fb00b.js",
+    "service-worker.js": "/Reto-Blazar/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Reto-Blazar/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Reto-Blazar/static/media/logo.5d5d9eef.svg"
+  }
+}
